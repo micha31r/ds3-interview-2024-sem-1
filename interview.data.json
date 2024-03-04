@@ -1,245 +1,245 @@
 [
-	{
-		"name": "Alice",
-		"age": 18,
-		"hobbies": [
-			"Cooking",
-			"Writing",
-			"Collecting stamps",
-			"Bird watching",
-			"Board games",
-			"Yoga",
-			"Meditation"
-		]
-	},
-	{
-		"name": "Bob",
-		"age": 20,
-		"hobbies": [
-			"Painting",
-			"Hiking",
-			"Playing an instrument",
-			"Dancing",
-			"Singing",
-			"Crafting"
-		]
-	},
-	{
-		"name": "Charlie",
-		"age": 18,
-		"hobbies": [
-			"Photography",
-			"Hiking",
-			"Playing an instrument",
-			"Fishing",
-			"Cycling",
-			"Yoga",
-			"Meditation",
-			"Crafting"
-		]
-	},
-	{
-		"name": "David",
-		"age": 23,
-		"hobbies": [
-			"Reading",
-			"Cooking",
-			"Hiking",
-			"Writing",
-			"Fishing",
-			"Cycling",
-			"Singing",
-			"Meditation",
-			"Crafting"
-		]
-	},
-	{
-		"name": "Emily",
-		"age": 22,
-		"hobbies": [
-			"Cooking",
-			"Playing an instrument",
-			"Traveling",
-			"Fishing",
-			"Singing",
-			"Yoga"
-		]
-	},
-	{
-		"name": "Frank",
-		"age": 22,
-		"hobbies": [
-			"Painting",
-			"Playing an instrument",
-			"Collecting stamps",
-			"Bird watching",
-			"Singing"
-		]
-	},
-	{
-		"name": "Grace",
-		"age": 20,
-		"hobbies": [
-			"Reading",
-			"Painting",
-			"Cooking",
-			"Writing",
-			"Dancing",
-			"Meditation"
-		]
-	},
-	{
-		"name": "Henry",
-		"age": 23,
-		"hobbies": [
-			"Painting",
-			"Photography",
-			"Writing",
-			"Playing an instrument",
-			"Traveling",
-			"Fishing",
-			"Meditation",
-			"Crafting"
-		]
-	},
-	{
-		"name": "Ivy",
-		"age": 21,
-		"hobbies": [
-			"Writing",
-			"Fishing",
-			"Video gaming",
-			"Yoga",
-			"Meditation"
-		]
-	},
-	{
-		"name": "Jack",
-		"age": 21,
-		"hobbies": [
-			"Cooking",
-			"Hiking",
-			"Writing",
-			"Fishing"
-		]
-	},
-	{
-		"name": "Katherine",
-		"age": 20,
-		"hobbies": [
-			"Cooking",
-			"Hiking",
-			"Playing an instrument",
-			"Cycling",
-			"Video gaming",
-			"Singing"
-		]
-	},
-	{
-		"name": "Liam",
-		"age": 22,
-		"hobbies": [
-			"Photography",
-			"Hiking",
-			"Playing an instrument",
-			"Dancing",
-			"Fishing",
-			"Collecting stamps",
-			"Meditation"
-		]
-	},
-	{
-		"name": "Mia",
-		"age": 23,
-		"hobbies": [
-			"Painting",
-			"Photography",
-			"Bird watching",
-			"Video gaming"
-		]
-	},
-	{
-		"name": "Nathan",
-		"age": 18,
-		"hobbies": [
-			"Reading",
-			"Photography",
-			"Cooking",
-			"Hiking",
-			"Dancing",
-			"Board games",
-			"Video gaming",
-			"Singing",
-			"Yoga"
-		]
-	},
-	{
-		"name": "Olivia",
-		"age": 18,
-		"hobbies": [
-			"Playing an instrument",
-			"Cycling",
-			"Collecting stamps",
-			"Bird watching",
-			"Yoga",
-			"Crafting"
-		]
-	},
-	{
-		"name": "Peter",
-		"age": 23,
-		"hobbies": [
-			"Cooking",
-			"Cycling",
-			"Bird watching",
-			"Meditation"
-		]
-	},
-	{
-		"name": "Quinn",
-		"age": 19,
-		"hobbies": [
-			"Reading",
-			"Painting",
-			"Dancing"
-		]
-	},
-	{
-		"name": "Rachel",
-		"age": 18,
-		"hobbies": [
-			"Painting",
-			"Cycling",
-			"Collecting stamps",
-			"Board games",
-			"Video gaming",
-			"Yoga",
-			"Meditation"
-		]
-	},
-	{
-		"name": "Samuel",
-		"age": 19,
-		"hobbies": [
-			"Painting",
-			"Hiking",
-			"Playing an instrument",
-			"Cycling",
-			"Video gaming",
-			"Yoga"
-		]
-	},
-	{
-		"name": "Taylor",
-		"age": 23,
-		"hobbies": [
-			"Reading",
-			"Cooking",
-			"Dancing",
-			"Traveling",
-			"Bird watching",
-			"Yoga",
-			"Crafting"
-		]
-	}
+  {
+    "name": "Alice",
+    "age": 18,
+    "hobbies": [
+      "Cooking",
+      "Writing",
+      "Collecting stamps",
+      "Bird watching",
+      "Board games",
+      "Yoga",
+      "Meditation"
+    ]
+  },
+  {
+    "name": "Bob",
+    "age": 20,
+    "hobbies": [
+      "Painting",
+      "Hiking",
+      "Playing an instrument",
+      "Dancing",
+      "Singing",
+      "Crafting"
+    ]
+  },
+  {
+    "name": "Charlie",
+    "age": 18,
+    "hobbies": [
+      "Photography",
+      "Hiking",
+      "Playing an instrument",
+      "Fishing",
+      "Cycling",
+      "Yoga",
+      "Meditation",
+      "Crafting"
+    ]
+  },
+  {
+    "name": "David",
+    "age": 23,
+    "hobbies": [
+      "Reading",
+      "Cooking",
+      "Hiking",
+      "Writing",
+      "Fishing",
+      "Cycling",
+      "Singing",
+      "Meditation",
+      "Crafting"
+    ]
+  },
+  {
+    "name": "Emily",
+    "age": 22,
+    "hobbies": [
+      "Cooking",
+      "Playing an instrument",
+      "Traveling",
+      "Fishing",
+      "Singing",
+      "Yoga"
+    ]
+  },
+  {
+    "name": "Frank",
+    "age": 22,
+    "hobbies": [
+      "Painting",
+      "Playing an instrument",
+      "Collecting stamps",
+      "Bird watching",
+      "Singing"
+    ]
+  },
+  {
+    "name": "Grace",
+    "age": 20,
+    "hobbies": [
+      "Reading",
+      "Painting",
+      "Cooking",
+      "Writing",
+      "Dancing",
+      "Meditation"
+    ]
+  },
+  {
+    "name": "Henry",
+    "age": 23,
+    "hobbies": [
+      "Painting",
+      "Photography",
+      "Writing",
+      "Playing an instrument",
+      "Traveling",
+      "Fishing",
+      "Meditation",
+      "Crafting"
+    ]
+  },
+  {
+    "name": "Ivy",
+    "age": 21,
+    "hobbies": [
+      "Writing",
+      "Fishing",
+      "Video gaming",
+      "Yoga",
+      "Meditation"
+    ]
+  },
+  {
+    "name": "Jack",
+    "age": 21,
+    "hobbies": [
+      "Cooking",
+      "Hiking",
+      "Writing",
+      "Fishing"
+    ]
+  },
+  {
+    "name": "Katherine",
+    "age": 20,
+    "hobbies": [
+      "Cooking",
+      "Hiking",
+      "Playing an instrument",
+      "Cycling",
+      "Video gaming",
+      "Singing"
+    ]
+  },
+  {
+    "name": "Liam",
+    "age": 22,
+    "hobbies": [
+      "Photography",
+      "Hiking",
+      "Playing an instrument",
+      "Dancing",
+      "Fishing",
+      "Collecting stamps",
+      "Meditation"
+    ]
+  },
+  {
+    "name": "Mia",
+    "age": 23,
+    "hobbies": [
+      "Painting",
+      "Photography",
+      "Bird watching",
+      "Video gaming"
+    ]
+  },
+  {
+    "name": "Nathan",
+    "age": 18,
+    "hobbies": [
+      "Reading",
+      "Photography",
+      "Cooking",
+      "Hiking",
+      "Dancing",
+      "Board games",
+      "Video gaming",
+      "Singing",
+      "Yoga"
+    ]
+  },
+  {
+    "name": "Olivia",
+    "age": 18,
+    "hobbies": [
+      "Playing an instrument",
+      "Cycling",
+      "Collecting stamps",
+      "Bird watching",
+      "Yoga",
+      "Crafting"
+    ]
+  },
+  {
+    "name": "Peter",
+    "age": 23,
+    "hobbies": [
+      "Cooking",
+      "Cycling",
+      "Bird watching",
+      "Meditation"
+    ]
+  },
+  {
+    "name": "Quinn",
+    "age": 19,
+    "hobbies": [
+      "Reading",
+      "Painting",
+      "Dancing"
+    ]
+  },
+  {
+    "name": "Rachel",
+    "age": 18,
+    "hobbies": [
+      "Painting",
+      "Cycling",
+      "Collecting stamps",
+      "Board games",
+      "Video gaming",
+      "Yoga",
+      "Meditation"
+    ]
+  },
+  {
+    "name": "Samuel",
+    "age": 19,
+    "hobbies": [
+      "Painting",
+      "Hiking",
+      "Playing an instrument",
+      "Cycling",
+      "Video gaming",
+      "Yoga"
+    ]
+  },
+  {
+    "name": "Taylor",
+    "age": 23,
+    "hobbies": [
+      "Reading",
+      "Cooking",
+      "Dancing",
+      "Traveling",
+      "Bird watching",
+      "Yoga",
+      "Crafting"
+    ]
+  }
 ]
